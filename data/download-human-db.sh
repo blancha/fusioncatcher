@@ -3,7 +3,7 @@
 #
 # FusionCatcher v1.20
 #
-cd "$(dirname "$(realpath -s "$0")")"
+#cd "$(dirname "$(realpath -s "$0")")"
 
 set -e
 mkdir human_v98
